@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I'm Christopher! 👋
 
-<!--
-**DeadClap/DeadClap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am an expert in developing web apps with Java, HTML, CSS and Javascript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Random things about me
+👩‍💻 I'm currently working on a few different things.
+
+🧠 I'm currently learning multiple coding languages.
+
+👯‍♀️ I'm looking to collaborate on open source projects
+
+🤔 I'm looking for help with ideas
+
+💬 Ask me about my favorite food
+
+📫 How to reach me discord Transform#1997
+
+😄 Pronouns He/Him
